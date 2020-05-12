@@ -1,9 +1,12 @@
 # react-native-recaptcha
-A react native wrapper for google recaptcha v3
+A react native wrapper for google recaptcha v3 with webview 
 
 ## Installation
 ```
-npm install --save react-native-recaptcha-v3
+npm install --save frozenpyrozen/react-native-recaptcha
+```
+```
+yarn add frozenpyrozen/react-native-recaptcha
 ```
 
 ## Usage
